@@ -1,4 +1,3 @@
-# Chris
 ## Olá! Me chamo Christoff, seja bem vindo ao meu mundo. 👋
 
 - Sou graduando em Sistemas para Internet e aqui você irá acompanhar a minha rotina no mundo da tecnologia e da programação! ⌨
@@ -15,4 +14,4 @@ Aqui estão algumas das linguagens que estou aprendendo:
 ## E-mail para contato:
 - dornelaschris@gmail.com</br>
 
-<h2> Agradeço pela estadia em meu mundo, espero que tenha gostado e volte sempre!</h2>
+<h3> Agradeço pela estadia no meu mundo, espero que tenha gostado e volte sempre!</h3>
