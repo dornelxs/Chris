@@ -9,8 +9,7 @@ Aqui estão algumas das linguagens que estou aprendendo:
 
 ![Chris GitHub stats](https://github-readme-stats.vercel.app/api?username=dornelxs&show_icons=true&theme=tokyonight)
 
-<h3>Aficionado em tecnologia em busca de conhecimentos, visando ajudar as pessoas através da programação.![image](https://user-images.githubusercontent.com/126968171/229297782-c469f199-0949-4aff-9937-7d878a1efcbc.png)
-</h3>
+<h3>Aficionado em tecnologia em busca de conhecimentos, visando ajudar as pessoas através da programação.!</h3>
 
 ## E-mail para contato:
 - dornelaschris@gmail.com</br>
