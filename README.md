@@ -13,7 +13,7 @@ Aqui estão algumas das linguagens que estou aprendendo:
 
 ![Chris GitHub stats](https://github-readme-stats.vercel.app/api?username=dornelxs&show_icons=true&theme=tokyonight)
 
-<h3>Aficionado em tecnologia em busca de conhecimentos, visando ajudar as pessoas através da programação.!</h3>
+<h3>Aficionado em tecnologia em busca de conhecimentos, visando ajudar as pessoas através da programação.</h3>
 
 ## E-mail para contato:
 - dornelaschris@gmail.com</br>
