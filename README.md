@@ -2,6 +2,10 @@
 
 - Sou graduando em Sistemas para Internet e aqui você irá acompanhar a minha rotina no mundo da tecnologia e da programação! ⌨
 
+Perfil profissional:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christoff-de-lima-dornelas-cavalcante-0b0486270/)
+
 Aqui estão algumas das linguagens que estou aprendendo:
 
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/dornelxs/Python_Messias)
