@@ -10,6 +10,7 @@ Aqui estão algumas das linguagens que estou aprendendo:
 
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/dornelxs/Python_Messias)
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/dornelxs/HTML_Angelo)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/dornelxs/Projetos_HTML.git)
 
 ![Chris GitHub stats](https://github-readme-stats.vercel.app/api?username=dornelxs&show_icons=true&theme=tokyonight)
 
