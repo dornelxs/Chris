@@ -14,6 +14,7 @@ Aqui estão algumas das linguagens que estou aprendendo:
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/dornelxs/Projetos_HTML.git)
 
 ![Chris GitHub stats](https://github-readme-stats.vercel.app/api?username=dornelxs&show_icons=true&theme=tokyonight)
+![Chris GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dornelxs&hide_progress=true)
 
 <h3>Aficionado em tecnologia em busca de conhecimentos, visando ajudar as pessoas através da programação.</h3>
 
