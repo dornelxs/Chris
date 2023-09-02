@@ -4,7 +4,7 @@
 
 Sou Christoff, um entusiasta da computação e um graduando dedicado em Sistemas para Internet. Aqui você encontrará não apenas meu código, mas também uma parte da minha jornada e paixão pela tecnologia.
 
-![Banner](inserir_link_para_um_banner_personalizado_ou_logo)
+![Banner]([(https://camo.githubusercontent.com/51ec934d33adb30add7a62d4da34b475c6ea04ef26cc3d1473b4212520eb35ca/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4a6f616f2d506564726f3132267468656d653d64726163756c6126726f773d32266e6f2d62673d7472756526636f6c756d6e3d33266d617267696e2d773d3135266d617267696e2d683d3135)])
 
 ### 🌟 Características Únicas
 
