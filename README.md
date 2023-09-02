@@ -36,10 +36,13 @@ Aqui estão algumas das linguagens e tecnologias com as quais estou trabalhando:
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dornelxs)
 
-### Projetos Destacados
 
-- [Projeto 1]([https://projetohtml-angelo.netlify.app]) - Descrição intrigante do projeto.
-- [Projeto 2]([https://github.com/dornelxs/JavaScript/tree/main/Projeto_fabryny/project_1]) - Outro projeto fascinante que merece destaque.
+- ### Projetos Destacados
+
+- [Projeto HTML Prof. Angelo](https://projetohtml-angelo.netlify.app) - Reprodução de um projeto para a finalozação do P1. Confira o site!
+- [Projeto Interação com uma tabela](https://github.com/dornelxs/JavaScript/tree/main/Projeto_fabryny/project_1) - Um projeto  para iniciar meus estudos utilizando HTML, CSS e JavaScript. Uma pequena tabela com 
+  interação que você pode explorar no meu repositório do GitHub.
+
 
 ### Aprendizado Contínuo
 
