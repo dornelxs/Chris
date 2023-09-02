@@ -13,7 +13,7 @@ Sou Christoff, um entusiasta da computação e um graduando dedicado em Sistemas
 
 
 ## Perfil Profissional
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christoff-de-lima-dornelas-cavalcante-0b0486270/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christoff-de-lima-dornelas-cavalcante-0b0486270/)
 
 
 
@@ -44,8 +44,8 @@ Aqui estão algumas das linguagens e tecnologias com as quais estou trabalhando:
 
 ### Projetos Destacados
 
-[Projeto HTML Prof. Angelo](https://projetohtml-angelo.netlify.app) - Reprodução de um projeto para a finalozação do P1. Confira o site!
-[Projeto Interação com uma tabela](https://github.com/dornelxs/JavaScript/tree/main/Projeto_fabryny/project_1) - Um projeto  para iniciar meus estudos utilizando HTML, CSS e JavaScript. Uma pequena tabela com 
+-[Projeto HTML Prof. Angelo](https://projetohtml-angelo.netlify.app) - Reprodução de um projeto para a finalozação do P1. Confira o site!
+-[Projeto Interação com uma tabela](https://github.com/dornelxs/JavaScript/tree/main/Projeto_fabryny/project_1) - Um projeto  para iniciar meus estudos utilizando HTML, CSS e JavaScript. Uma pequena tabela com 
 interação que você pode explorar no meu repositório do GitHub.
 
 
