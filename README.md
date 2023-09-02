@@ -44,7 +44,7 @@ Aqui estão algumas das linguagens e tecnologias com as quais estou trabalhando:
 
 ### Projetos Destacados
 
-[Projeto HTML Prof. Angelo](https://projetohtml-angelo.netlify.app) - Reprodução de um projeto para a finalozação do P1. Confira o site!
+[Projeto HTML Prof. Angelo](https://projetohtml-angelo.netlify.app) - Reprodução de um projeto para a finalização do P1. Confira o site!
 
 [Projeto Interação com uma tabela](https://github.com/dornelxs/JavaScript/tree/main/Projeto_fabryny/project_1) - Um projeto  para iniciar meus estudos utilizando HTML, CSS e JavaScript.
 
