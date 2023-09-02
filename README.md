@@ -35,8 +35,8 @@ Aqui estão algumas das linguagens e tecnologias com as quais estou trabalhando:
 
 ### Projetos Destacados
 
-- [Projeto 1]([https://github.com/seu-usuario/projeto1](https://projetohtml-angelo.netlify.app)) - Descrição intrigante do projeto.
-- [Projeto 2]([https://github.com/seu-usuario/projeto2](https://github.com/dornelxs/JavaScript/tree/main/Projeto_fabryny/project_1)) - Outro projeto fascinante que merece destaque.
+- [Projeto 1]([https://projetohtml-angelo.netlify.app]) - Descrição intrigante do projeto.
+- [Projeto 2]([https://github.com/dornelxs/JavaScript/tree/main/Projeto_fabryny/project_1]) - Outro projeto fascinante que merece destaque.
 
 ### Aprendizado Contínuo
 
