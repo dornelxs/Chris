@@ -4,7 +4,7 @@
 
 Sou Christoff, um entusiasta da computação e um graduando dedicado em Sistemas para Internet. Aqui você encontrará não apenas meu código, mas também uma parte da minha jornada e paixão pela tecnologia.
 
-![Snake animation](https://github.com/dornelxs)
+![snake gif](https://github.com/dornelxs/dornelxs/blob/output/github-contribution-grid-snake.gif)
 
 
 ### 🌟 Características Únicas
