@@ -4,8 +4,6 @@
 
 Sou Christoff, um entusiasta da computação e um graduando dedicado em Sistemas para Internet. Aqui você encontrará não apenas meu código, mas também uma parte da minha jornada e paixão pela tecnologia.
 
-![snake gif](https://github.com/dornelxs/dornelxs/blob/output/github-contribution-grid-snake.gif)
-
 
 ### 🌟 Características Únicas
 
@@ -13,26 +11,23 @@ Sou Christoff, um entusiasta da computação e um graduando dedicado em Sistemas
 - 💡 Apaixonado por resolver problemas complexos através da programação.
 - 🚀 Acredito na importância da colaboração e do aprendizado contínuo.
 
-## Perfil Profissional
 
-- **LinkedIn:**
+## Perfil Profissional
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christoff-de-lima-dornelas-cavalcante-0b0486270/)
 
+
+
 ### Linguagens e Tecnologias
-
 Aqui estão algumas das linguagens e tecnologias com as quais estou trabalhando:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+</div>
 
-- Python:
-- [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/dornelxs/Python_Messias)
-- 
-- HTML:
-- [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/dornelxs/HTML_Angelo)
-- 
-- CSS:
-- [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/dornelxs/Projetos_HTML.git)
-- 
-- Java:
-- [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/dornelxs/JAVA-Fernanda)
+
 
 
 ### Estatísticas
@@ -40,9 +35,11 @@ Aqui estão algumas das linguagens e tecnologias com as quais estou trabalhando:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dornelxs&show_icons=true&theme=tokyonight)
 
 
+
 ### Linguagens Mais Usadas
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dornelxs)
+
 
 
 ### Projetos Destacados
@@ -52,14 +49,19 @@ Aqui estão algumas das linguagens e tecnologias com as quais estou trabalhando:
 interação que você pode explorar no meu repositório do GitHub.
 
 
+
+
 ### Aprendizado Contínuo
 
 A jornada da programação é infinita, e estou sempre ansioso para aprender mais e compartilhar meu conhecimento com a comunidade.
 
 
+
+
 ### Contato
 
 - **E-mail:** dornelaschris@gmail.com
+
 
 
 ### Agradecimento
