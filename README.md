@@ -56,7 +56,6 @@ A jornada da programação é infinita, e estou sempre ansioso para aprender mai
 
 
 
-
 ### Contato
 
 - **E-mail:** dornelaschris@gmail.com
