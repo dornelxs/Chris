@@ -21,8 +21,11 @@ Sou Christoff, um entusiasta da computação e um graduando dedicado em Sistemas
 Aqui estão algumas das linguagens e tecnologias com as quais estou trabalhando:
 
 - Python: [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/dornelxs/Python_Messias)
+- 
 - HTML: [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/dornelxs/HTML_Angelo)
+- 
 - CSS: [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/dornelxs/Projetos_HTML.git)
+- 
 - Java: [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/dornelxs/JAVA-Fernanda)
 
 ### Estatísticas
